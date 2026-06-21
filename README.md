@@ -1,8 +1,6 @@
 # relayer
 
 > Off-chain Allora Network → Mantle on-chain prediction bridge for **[HeliQuant](https://github.com/HeliQuant)**.
->
-> Submitted to **Mantle Turing Test Hackathon 2026** — Track 1: AI Trading & Strategy.
 
 ## What it does
 
